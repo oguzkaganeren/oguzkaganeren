@@ -31,8 +31,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=oguzkaganeren&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 🧑‍💻  This week, I spent my time on:
-
-[![oguz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oguzkaganeren&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
-
 
