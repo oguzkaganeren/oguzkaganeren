@@ -18,11 +18,11 @@
 
 ## 👋 About Me
 
-Full-stack developer with a B.Sc. in Computer Engineering and 5+ years of experience building end-to-end enterprise web & mobile applications with **Java, Spring Boot, React, and Angular**. I've shipped production software for major insurance carriers and a Fortune-500 tech company (Huawei) — spanning backend microservices, REST APIs, and modern frontend interfaces. Also an active open-source contributor in the **Linux/Manjaro** community.
+Full-stack developer with a B.Sc. in Computer Engineering and 5+ years of experience building end-to-end enterprise web & mobile applications with **Java, Spring Boot, React, and Angular**. I've shipped production software for major insurance carriers and a Fortune-500 tech company (Huawei) — spanning backend microservices, REST APIs, and modern frontend interfaces. Former open-source contributor in the Manjaro Linux community, now daily-driving **CachyOS**.
 
 - 🏢 Currently building enterprise insurance platforms (Java, JSF, React, Angular, Flutter) at **Agito**
 - 🗺️ Previously built backend services for **Petal Maps** at **Huawei**
-- 🐧 Maintainer of open-source tools for the Manjaro Linux community
+- 🐧 Formerly maintained wiki plugins & tooling for the Manjaro Linux community (2019–2023); now running CachyOS
 - 🌍 Based in Muğla, Türkiye — open to relocation
 - 📫 Reach me at **oguzkaganeren@gmail.com**
 
@@ -54,7 +54,8 @@ Full-stack developer with a B.Sc. in Computer Engineering and 5+ years of experi
 ![](https://img.shields.io/badge/Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnubash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=manjaro&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/CachyOS-informational?style=flat&logo=cachyos&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Arch_Linux-informational?style=flat&logo=archlinux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&color=6aa6f8)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
