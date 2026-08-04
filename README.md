@@ -77,12 +77,13 @@ Full-stack developer with a B.Sc. in Computer Engineering and 5+ years of experi
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oguzkaganeren&show_icons=true&theme=default&hide_border=true&title_color=6aa6f8&icon_color=6aa6f8" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzkaganeren&layout=compact&hide_border=true&title_color=6aa6f8&langs_count=8" alt="Top Languages"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oguzkaganeren&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzkaganeren/oguzkaganeren/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oguzkaganeren/oguzkaganeren/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/oguzkaganeren/oguzkaganeren/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6AA6F8&height=100&section=footer" alt="footer"/>
 
